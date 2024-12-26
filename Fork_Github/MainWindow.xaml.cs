@@ -18,7 +18,7 @@ namespace Fork_Github
             //walao so many changes
 
 
-            Console.WriteLine("HI");
+            Console.WriteLine("Hahahahahhaah");
 
             // hello this is added
             //this is after console, change this
