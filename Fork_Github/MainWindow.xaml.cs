@@ -13,6 +13,8 @@ namespace Fork_Github
             InitializeComponent();
 
             //SOHAI damn stress oh
+
+            Console.WriteLine();
         }
     }
 }
