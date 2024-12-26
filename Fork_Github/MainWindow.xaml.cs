@@ -22,6 +22,8 @@ namespace Fork_Github
 
             // hello this is added
             //this is after console, change this
+
+            // another conflict
             //...
         }
     }
