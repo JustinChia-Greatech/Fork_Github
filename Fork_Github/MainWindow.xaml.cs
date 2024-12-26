@@ -14,13 +14,15 @@ namespace Fork_Github
 
             //SOHAI damn stress oh
 
-            //changes
 
             //walao so many changes
 
             //This is another one, i need console
 
             Console.WriteLine();
+
+
+            //this is after console, change this
         }
     }
 }
